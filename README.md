@@ -3,7 +3,7 @@ FaceBook Scapper using Python
 
 The steps for creating this application were as follows:
 
-1. Installation of Facebook and Pandas Libraries
+1. Installation of Facebook(facebook-sdk) and Pandas Libraries
 2. Get Facebook Page ID
 3. Get Fcaebook Page Post ID Graph API
 4. Generate Facebook Access Token using Graph API
